@@ -2,14 +2,9 @@
 - 👀 I’m interested in game development and backend coding
 - 🌱 I’m currently learning python, java, website development frameworks, leetcode problems 
 - 📫 How to reach me:
-
    Discord: GlowOne#2202
-  
-  E-Mail: manischabani@yahoo.de
-  
-  Instagram: manischabaniqassri
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Better basketball player than programmer! (currently) 
+  E-Mail: manischabaniqassri@gmail.com
+  Instagram: maniqassri
 
 <!---
 glowone/glowone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
