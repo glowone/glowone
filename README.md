@@ -1,10 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:38bdf8&height=190&section=header&text=Mani%20Schabani-Qassri&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=CS%20%C2%B7%20Math%20@%20UC%20San%20Diego%20%7C%20Software%20Engineer&descAlignY=57&descSize=17" width="100%" alt="Mani Schabani-Qassri — CS · Math @ UC San Diego" />
-
-<a href="https://linkedin.com/in/manischabaniqassri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:manischabaniqassri@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://github.com/glowone"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://img.shields.io/badge/San%20Diego,%20CA-4B5563?style=for-the-badge&logo=googlemaps&logoColor=white" alt="San Diego, CA" />
 
 </div>
