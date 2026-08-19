@@ -22,7 +22,7 @@ I'm a **B.S. Computer Science & Mathematics** student at **UC San Diego** (Class
 
 ### 🔭 Currently Working On
 
-- 🧠 Grinding **[NeetCode](https://github.com/glowone/neetcode-submissions)** — documenting my DSA grind and recruitment cycle prep written in Python 
+- 🧠 Grinding **[NeetCode](https://github.com/glowone/neetcode-submissions)** - documenting my DSA grind and recruitment cycle prep written in Python 
 - 🏀 Building Fluidly - an App that shows you what NBA player you most play like and teaches you how to get to their level
 
 ---
