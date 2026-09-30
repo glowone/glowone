@@ -9,9 +9,9 @@
 
 ### 👋 About Me
 
-I'm a **B.S. Computer Science & Mathematics** student at **UC San Diego** (Class of 2027, minoring in Finance) who likes building things that delete tedious work,like a script that turns hours of video editing into a matter of minutes, an automation that gave a county department back an average of five hours a week, or a VS Code extension that keeps a team's issues where the code is.
+I'm a **B.S. Computer Science & Mathematics** student at **UC San Diego** (minoring in Finance) who likes building things that delete tedious work,like a script that turns hours of video editing into a matter of minutes, an automation that gave a county department back an average of five hours a week, or a VS Code extension that keeps a team's issues where the code is.
 
-- 🎯 **Looking for:** Software Engineering internships & new-grad roles for 2027
+- 🎯 **Looking for:** Software Engineering internships for summer 2027
 - 🧰 **Comfortable across the stack:** Java and Python for the hard parts, TypeScript/React for the parts people actually see
 - 🧪 **Care a lot about:** clean tests, readable code, and shipping on a real sprint cadence
 - 📚 **Also into:** algorithms, computer vision, and the math underneath both
